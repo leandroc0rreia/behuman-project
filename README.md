@@ -1,2 +1,2 @@
-# behuman-project
+# BeHuman
 Professional Project for Animal Adoption
