@@ -150,8 +150,5 @@
 									</ul>
 								</div>
 							</div>
-							<div class="form-group">
-								<input type="file" name="Foto"   value="" placeholder="Foto"  />
-							</div>
 						</form>
 		<?php } ?>	

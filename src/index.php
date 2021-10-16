@@ -150,9 +150,9 @@ if($pagina=="validar_login") include("validar_login.php");
 									</header>
 									<p>O Website foi realizado no âmbito da Prova de Aptidão Profissional.<br>Projeto sem fins lucrativos e fiável aos utilizadores. O Conteúdo colocado no Website é fictício.<br></p>
 									<ul class="contact">
-										<li class="fa-envelope-o"><a href="#">leandrocorreia.contacto@gmail.com</a></li>
-										<li class="fa-phone">(351+)  915-566-212</li>
-										<li class="fa-home"> São Paio de Oleiros, Rua Tio nº33, 4535</li>
+										<li class="fa-github"><a href="github.com/leandroc0rreia">github.com/leandroc0rreia</a></li>
+										<li class="fa-link"><a href="www.linkedin.com/in/leandroc0rreia/">www.linkedin.com/in/leandroc0rreia</a></li>
+										<li class="fa-home">Portugal</li>
 									</ul>
 								</section>
 								<footer id="footer">
