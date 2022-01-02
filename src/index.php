@@ -150,8 +150,8 @@ if($pagina=="validar_login") include("validar_login.php");
 									</header>
 									<p>O Website foi realizado no âmbito da Prova de Aptidão Profissional.<br>Projeto sem fins lucrativos e fiável aos utilizadores. O Conteúdo colocado no Website é fictício.<br></p>
 									<ul class="contact">
-										<li class="fa-github"><a href="github.com/leandroc0rreia">github.com/leandroc0rreia</a></li>
-										<li class="fa-link"><a href="www.linkedin.com/in/leandroc0rreia/">www.linkedin.com/in/leandroc0rreia</a></li>
+										<li class="fa-github">leandroc0rreia</li>
+										<li class="fa-link">leandroc0rreia</li>
 										<li class="fa-home">Portugal</li>
 									</ul>
 								</section>
